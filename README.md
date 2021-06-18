@@ -3,7 +3,7 @@
 ## Contents
 
 - [Feeding Hands](#submission-or-project-name)
-  - [WIT ACE HACKATHON 2021](#contents)
+  - [WIT ACE hachathon 2021](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
