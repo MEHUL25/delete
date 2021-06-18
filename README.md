@@ -70,8 +70,8 @@ The interested entities will contact the owners, if their requirements are fulfi
 
 The project currently does the following things.
 - Authentication
-- upload food details 
-- serach according to users need 
+- Upload food details 
+- Serach according to users need 
 
 ![Process](https://user-images.githubusercontent.com/63947423/122579035-1dd0bb80-d072-11eb-94c8-211ab4d7bebf.png)
 
