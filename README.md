@@ -23,6 +23,7 @@
 Poverty is a major issue, which needs to be addressed Globally. Wastage of food is increasing day by day in Hotels, Eateries, Mess , gatherings, so instead of throwing it we can make it usable .  Citing this problem, we have developed a platform to connect NGOs, farmers and owners at one simple point. We will categorize the  food into two categories , Consumable and Non consumable . Consumable food can be used by different NGO's to feed the hungry, poverty stricken families,which will be healthy enough for normal consumption. The Non Consumable food can be used to  on farmlands, both as cattle feed or manure (composting).
 
 ### What's the problem?
+
 World hunger has been a constant problem throughout the ages.It is a problem that should be able to be solved easily, yet current estimates are that nearly 690 million people are hungry, up by 10 million people in one year and by nearly 60 million in five years. Owing to its importance, the United Nations has added "Zero Hunger" as the sustainable development goal to improve the lives and prospects of everyone and everywhere. Wastage of food is increasing day by day in Hotels, eateries, messes, and gatherings, so instead of throwing it away, we can make it usable. 
 
 ### How can technology help?
@@ -35,6 +36,8 @@ Further, food will be categorized into two categories by owners - Consumable and
 It's vital to eradicate hunger and provide resources for cattle feeding. The system can create a distribution network among the actors generating food leftover and food-consuming actors. It provides an open platform by using technologies such as Nodejs for backend, IBM Cloud for Database. 
 
 ## Demo video
+
+
 
 ## The architecture
 
@@ -60,8 +63,10 @@ Further, the surplus will be categorized as Edible and Non Edible by the actors.
 
 The actors, who are in need of excess food, such as NGOs or farmers, will search or will be notified about tickets generated in their vicinity, according to their need.
 -   Consumable food, which would be healthy enough for normal consumption, can be used by NGOs to feed the hungry, poverty-stricken families or cattles.
+    Consumable food:The edible surplus food, which is healthy enough for human consumption, can be issued by NGO's to distribute to thr underprivileged and hungry people.
 -   The Non Consumable food can be used on farmlands and organic nurseries, as cattle feed or manure in composting.
-
+    Nonconsumable food:The nonedible surplus food can be processed by methods such as composting and anaerobic digestion. Composting produces compost for local agriculture,         parks, and forestry, while anaerobic digestion produces renewable fuel. 
+    
 ## Section 3
 
 The interested entities will contact the owners, if their requirements are fulfilled. Further, they will issue the Food, and distribute them accordingly.
@@ -71,7 +76,7 @@ The interested entities will contact the owners, if their requirements are fulfi
 The project currently does the following things.
 - Authentication
 - Upload food details 
-- Serach according to users need 
+- Search according to users need 
 
 ![Process](https://user-images.githubusercontent.com/63947423/122579035-1dd0bb80-d072-11eb-94c8-211ab4d7bebf.png)
 
